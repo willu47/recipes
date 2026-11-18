@@ -5,4 +5,5 @@
 * salt
 
 ## Instructions
-Mash the avo
+* peel the avocados
+
