@@ -5,5 +5,6 @@
 * salt
 
 ## Instructions
-* peel the avocados
+* peel the avocado
+* put othe avacodo flesh into a bowl
 
