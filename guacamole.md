@@ -5,4 +5,4 @@
 * salt
 
 ## Instructions
-Mash the banana and add the sugar
+Mash the avo
