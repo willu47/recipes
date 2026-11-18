@@ -5,4 +5,5 @@
 * salt
 
 ## Instructions
-Mash the avo
+* put one avacodo into a bowl
+
